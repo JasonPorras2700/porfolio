@@ -11970,4 +11970,7 @@ textarea.form-control-lg {
   .d-print-none {
     display: none !important;
   }
+}
+.space--block {
+  margin-top: 60px;
 }/*# sourceMappingURL=styles.css.map */
